@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Nicolas Ceresole</h1>
+<p align="center">A software developer from Argentina 🇦🇷</p>
 
-<!--
-**nceresole/nceresole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;
 
-Here are some ideas to get you started:
+### `/about`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :computer: I’m currently working at **Ripio** as a Full Stack Developer.
+- :gear: My current tech stack includes **JavaScript** / **Python**.
+- :heart: I love to work on **UX/UI** related things.
+- :books: I like to read about astronomy, cosmology and things related to the universe.
+- :watch: In my free time I usually play online games or watch movies/series or documentaries.
+
+&nbsp;
+
+### `/contact`
+
+- :mailbox: [Email](mailto:nceresole.dev@gmail.com)
+- :necktie: [LinkedIn](https://www.linkedin.com/in/nceresole/)
+- :building_construction: Portfolio
+
+&nbsp;
+
+<p align="center">:suspect: <code>© 2021</code></p>
