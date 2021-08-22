@@ -17,6 +17,7 @@
 
 - :mailbox: [Email](mailto:nceresole.dev@gmail.com)
 - :necktie: [LinkedIn](https://www.linkedin.com/in/nceresole/)
+- :key: [Keybase](https://keybase.io/nceresole)
 - :building_construction: Portfolio
 
 &nbsp;
